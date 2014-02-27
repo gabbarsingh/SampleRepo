@@ -1,0 +1,4 @@
+SampleRepo
+==========
+
+Learning Git
